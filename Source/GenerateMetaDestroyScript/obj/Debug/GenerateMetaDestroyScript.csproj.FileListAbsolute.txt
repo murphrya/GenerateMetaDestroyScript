@@ -11,3 +11,6 @@ C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateM
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.exe.config
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.exe
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.pdb
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.exe.config
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.exe
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.pdb
