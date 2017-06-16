@@ -1,4 +1,4 @@
-﻿##Overview
+﻿## Overview
 This is a command line progam that will query the local symcli database and generate a text file with all of the cleanup commands for VMAX2 meta devices. The application utilizes the Solutions Enabler offline mode to generate the script on your local machine without affecting your Unisphere/Solutions Enabler server. The current version of the script performs the following:
 
 1. Warns if a device is not a meta devices.
@@ -9,7 +9,7 @@ This is a command line progam that will query the local symcli database and gene
 6. Provides a text file with preview commands, and a seperate text file with commit commands.
 
 
-##Setup
+## Setup
 
 1. Make sure your operating system is Windows 8 or higher.
 2. Make sure you have the Microsoft .NET Framework 4.5.2 or higher installed.
@@ -18,7 +18,7 @@ This is a command line progam that will query the local symcli database and gene
 5. Download GenerateMetaDestroyScript.exe to your local machine.
 
 
-##Usage
+## Usage
 The GenerateMetaDestroyScript.exe program is run from command line, and expects two arguements. Arguement 1 is the Serial Number of the VMAX, the last for digits of the S/N is enough. Arguement 2 is a comma seperated list of the metadevices you want commands created for.
 
 1. Open a command line window and navigate to the location of the  GenerateMetaDestroyScript.exe.
@@ -30,7 +30,7 @@ The GenerateMetaDestroyScript.exe program is run from command line, and expects 
 3. GenerateMetaDestroyScript.exe will generate two text files on your desktop. One will contain the symconfigure preview commands, the other the symconfigure commit commands.
 
 
-##Licensing
+## Licensing
 Copyright (c) 2017 Ryan Murphy
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
