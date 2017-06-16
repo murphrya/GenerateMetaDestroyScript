@@ -12,9 +12,9 @@ This is a command line progam that will query the local symcli database and gene
 ## Setup
 
 1. Make sure your operating system is Windows 8 or higher.
-2. Make sure you have the Microsoft .NET Framework 4.5.2 or higher installed.
+2. Make sure you have the [Microsoft .NET Framework 4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42643) or higher installed.
 3. Install the same version of Solutions Enabler as your Unisphere/Solutions Enabler server. If your Unisphere server is running 7.6.2 then install 7.6.2 on your local machine. Leave all the defaults during the installation.
-4. Copy the symapi_db.bin from your Unisphere/Solutions Enabler server to your local machine. Copy it from C:\Program Files\EMC\SYMAPI\db and store it on your local machine in the same location.
+4. Copy the ```symapi_db.bin``` from your Unisphere/Solutions Enabler server to your local machine. Copy it from ```C:\Program Files\EMC\SYMAPI\db``` and store it on your local machine in the same location.
 5. Download GenerateMetaDestroyScript.exe to your local machine.
 
 
