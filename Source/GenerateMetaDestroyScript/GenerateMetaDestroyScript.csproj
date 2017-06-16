@@ -78,6 +78,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="GenerateMetaDestroyScript_TemporaryKey.pfx" />
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">

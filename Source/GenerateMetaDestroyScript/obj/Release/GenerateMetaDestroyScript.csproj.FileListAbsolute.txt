@@ -15,6 +15,7 @@ C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\bin\Release\GenerateMetaDestroyScript.application
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\bin\Release\GenerateMetaDestroyScript.exe
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\bin\Release\GenerateMetaDestroyScript.pdb
-C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\obj\Release\GenerateMetaDestroyScript.csprojResolveAssemblyReference.cache
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\obj\Release\GenerateMetaDestroyScript.exe.manifest
 C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\obj\Release\GenerateMetaDestroyScript.application
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\bin\Release\GenerateMetaDestroyScript.exe.CodeAnalysisLog.xml
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\Source\GenerateMetaDestroyScript\bin\Release\GenerateMetaDestroyScript.exe.lastcodeanalysissucceeded
