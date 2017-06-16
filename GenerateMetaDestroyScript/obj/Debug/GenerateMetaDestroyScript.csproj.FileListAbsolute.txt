@@ -1,0 +1,13 @@
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.exe.config
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.exe
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.pdb
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.csprojResolveAssemblyReference.cache
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.exe
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.pdb
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.exe.manifest
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.application
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.exe.manifest
+C:\Users\murph\Syncplicity Folders\SE Documents (Ryan Murphy)\Projects\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.application
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\GenerateMetaDestroyScript\bin\Debug\GenerateMetaDestroyScript.exe.config
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.exe
+C:\Users\murphr26\Syncplicity Folders\SE Documents\Git\GenerateMetaDestroyScript\GenerateMetaDestroyScript\obj\Debug\GenerateMetaDestroyScript.pdb
