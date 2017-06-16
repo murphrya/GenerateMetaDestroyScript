@@ -28,8 +28,9 @@ The GenerateMetaDestroyScript.exe program is run from command line, and expects 
 3. For example if you wanted to delete 2 meta devices from VMAX5021 you would run the following: ```GenerateMetaDestroyScript.exe "5021" "0EE5,0EF9"```
 
 3. GenerateMetaDestroyScript.exe will generate two text files on your desktop. One will contain the symconfigure preview commands, the other the symconfigure commit commands.
-![img1](https://raw.githubusercontent.com/murphrya/GenerateMetaDestroyScript/master/desktop_output.PNG)
-![img2](https://raw.githubusercontent.com/murphrya/GenerateMetaDestroyScript/master/commands.PNG)
+![img1](https://raw.githubusercontent.com/murphrya/GenerateMetaDestroyScript/master/cmd.PNG)
+![img2](https://raw.githubusercontent.com/murphrya/GenerateMetaDestroyScript/master/desktop_output.PNG)
+![img3](https://raw.githubusercontent.com/murphrya/GenerateMetaDestroyScript/master/commands.PNG)
 
 
 ## Licensing
